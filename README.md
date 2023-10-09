@@ -1,5 +1,6 @@
 # music_store_sql_project
 This is an posgresql end-to-end project!!!
+
 /*	Question Set 1 - Easy */
 
 /* Q1: Who is the senior most employee based on job title? */
